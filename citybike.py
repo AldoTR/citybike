@@ -5,13 +5,10 @@ import numpy as np
 st.title('Cicle Rides in NYC')
 st.title('Aldo Torres Ramírez')
 st.title('zS20006781')
+st.title('zS20006781@estudiantes.uv.mx')
 
 st.sidebar.image("matricula.png")
 st.sidebar.markdown("##")
-
-st.markdown("""Aldo Torres Ramírez\n
-            Matricula: S20006781\n
-            zS20006781@estudiantes.uv.mx""")
 
 DATE_COLUMN = 'started_at'
 DATA_URL = ('citibike-tripdata.csv')
